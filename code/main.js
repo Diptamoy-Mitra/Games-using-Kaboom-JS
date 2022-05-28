@@ -6,7 +6,7 @@ document.title = 'Coder, Coffee and Bugs'
 // Initialize context
 kaboom({
   font: "sink",
-  background: [ 210, 210, 155, ],
+  background: [ 210, 210, 155, ] ,
 })
 
 // Lets load the Sprites
